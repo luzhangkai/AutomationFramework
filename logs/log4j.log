@@ -1,2 +1,6 @@
 2018-05-07 11:40:42,542 INFO main [com.lzk.drivers.SeleniumDriver]info(line:33)文本框By.name: wd输入selenium
 2018-05-07 11:40:42,632 INFO main [com.lzk.drivers.SeleniumDriver]info(line:33)点击：By.id: su
+2018-05-07 13:47:06,537 INFO main [com.lzk.tools.TestRandom]info(line:33)89083
+2018-05-07 14:20:54,192 INFO main [com.lzk.tools.TestRandom]info(line:33)1750
+2018-05-07 14:21:01,797 INFO main [com.lzk.tools.TestRandom]info(line:33)1100
+2018-05-07 15:50:01,813 INFO main [com.lzk.tools.TestRandom]info(line:33)d6zn2Q071n
