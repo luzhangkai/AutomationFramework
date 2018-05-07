@@ -4,3 +4,15 @@
 2018-05-07 14:20:54,192 INFO main [com.lzk.tools.TestRandom]info(line:33)1750
 2018-05-07 14:21:01,797 INFO main [com.lzk.tools.TestRandom]info(line:33)1100
 2018-05-07 15:50:01,813 INFO main [com.lzk.tools.TestRandom]info(line:33)d6zn2Q071n
+2018-05-07 15:59:53,912 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午3:59
+2018-05-07 16:00:41,779 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午4:00
+2018-05-07 16:02:34,807 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午4:02
+2018-05-07 16:02:44,567 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午4:02
+2018-05-07 16:03:12,021 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午4:03
+2018-05-07 16:04:46,662 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午4:04
+2018-05-07 16:05:52,178 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午4:05
+2018-05-07 16:10:25,811 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：18-5-7 下午4:10
+2018-05-07 16:11:01,230 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：20180507
+2018-05-07 16:11:16,237 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：2018年05月07日 16:11:16
+2018-05-07 16:11:58,534 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：2018年05月07日 16:11:58
+2018-05-07 16:11:58,537 INFO main [com.lzk.tools.DateFormate]info(line:33)11位的随机数为：15256807185

@@ -41,4 +41,5 @@ public class LoggerControler {
     public  void error(String msg){
         logger.error(msg);
     }
+
 }
