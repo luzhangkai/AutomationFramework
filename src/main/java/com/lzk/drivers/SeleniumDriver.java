@@ -1,5 +1,6 @@
 package com.lzk.drivers;
 
+import com.lzk.log4j.LoggerControler;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -8,6 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class SeleniumDriver {
+    final static LoggerControler log = LoggerControler.getLogger(SeleniumDriver.class);
     public  static WebDriver driver;
     public  static WebDriver open(String browser){
         String path=System.getProperty("user.dir");
@@ -26,7 +28,8 @@ public class SeleniumDriver {
             System.setProperty("webdriver.edge.driver",path+"/drivers/MicrosoftWebDriver.exe");
             driver = new EdgeDriver();
         }else{
-            System.out.println("您输入的浏览器名称有误"+browser);
+//            System.out.println("您输入的浏览器名称有误"+browser);
+            log.error("您输入的浏览器名称有误");
         }
         return driver;
     }

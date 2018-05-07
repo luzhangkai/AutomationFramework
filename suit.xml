@@ -4,7 +4,6 @@
 <test name="Selenium_Grid_Demo">
 <classes>
     <class name="com.lzk.drivers.WebElementsTest">
-
     </class>
 </classes>
 </test>

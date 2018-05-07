@@ -14,7 +14,7 @@ public class ActionsTest {
         driver.get("https://www.baidu.com/");
         Actions.sendKeys(By.name("wd"),"selenium");
         Actions.click(By.id("su"));
-
+        driver.close();
     }
     @Test
     public  void test2(){
@@ -24,5 +24,7 @@ public class ActionsTest {
         for(int i=0;i<arrayList.size();i++){
             System.out.println(arrayList.get(i));
         }
+        driver.close();
     }
+
 }
