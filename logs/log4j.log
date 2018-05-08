@@ -143,3 +143,6 @@
 2018-05-08 14:20:30,936 INFO main [com.lzk.testng.TestResultListener]onFinish(line:65)skipTest = findTest
 2018-05-08 14:20:30,937 INFO main [com.lzk.testng.TestResultListener]onFinish(line:79)failedTest = findTest
 2018-05-08 14:20:30,937 INFO main [com.lzk.testng.TestResultListener]onFinish(line:102)Remove repeat Fail Test: findTest
+2018-05-08 14:23:23,051 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:23:23,053 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 14:23:23,053 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_142323
