@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class SeleniumDriverTest {
     @Test
     public void openTest(){
-        WebDriver driver = SeleniumDriver.open("IE");
+        WebDriver driver = SeleniumDriver.open("chrome");
         SeleniumDriver.close();
     }
 }

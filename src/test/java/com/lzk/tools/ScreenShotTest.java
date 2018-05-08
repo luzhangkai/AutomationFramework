@@ -5,6 +5,7 @@ import com.lzk.log4j.LoggerControler;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.safari.SafariDriver;
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
 public class ScreenShotTest {
@@ -15,5 +16,6 @@ public class ScreenShotTest {
         driver.get("https://www.baidu.com/");
         MyAssert.assertEquals("aa1","111");
     }
+
 
 }

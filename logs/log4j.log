@@ -43,3 +43,103 @@
 2018-05-08 11:21:55,148 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
 2018-05-08 11:21:55,150 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
 2018-05-08 11:21:55,150 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_112155
+2018-05-08 13:55:39,931 INFO main [com.lzk.drivers.SeleniumDriver]info(line:33)文本框By.name: wd输入selenium
+2018-05-08 13:55:40,002 INFO main [com.lzk.drivers.SeleniumDriver]info(line:33)点击：By.id: su
+2018-05-08 13:58:22,984 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 13:58:22,986 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 13:58:22,986 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_135822
+2018-05-08 14:01:18,979 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:01:18,981 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140118
+2018-05-08 14:01:45,412 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:50)test Start
+2018-05-08 14:01:48,977 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:01:48,978 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140148
+2018-05-08 14:01:48,988 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:30)Retry for [test] on class [com.lzk.tools.ScreenShotTest] Retry 1 times
+2018-05-08 14:01:49,225 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:01:49,225 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140149
+2018-05-08 14:01:49,229 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:38)test Skipped
+2018-05-08 14:01:49,229 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:50)test Start
+2018-05-08 14:01:52,242 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:01:52,243 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140152
+2018-05-08 14:01:52,248 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:30)Retry for [test] on class [com.lzk.tools.ScreenShotTest] Retry 2 times
+2018-05-08 14:01:52,486 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:01:52,486 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140152
+2018-05-08 14:01:52,490 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:38)test Skipped
+2018-05-08 14:01:52,491 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:50)test Start
+2018-05-08 14:01:55,474 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:01:55,475 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140155
+2018-05-08 14:01:55,716 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:01:55,716 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140155
+2018-05-08 14:01:55,719 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestFailure(line:30)test Failure
+2018-05-08 14:01:55,723 INFO main [com.lzk.testng.TestResultListener]onFinish(line:69)skipTest = test
+2018-05-08 14:01:55,723 INFO main [com.lzk.testng.TestResultListener]onFinish(line:69)skipTest = test
+2018-05-08 14:01:55,723 INFO main [com.lzk.testng.TestResultListener]onFinish(line:83)failedTest = test
+2018-05-08 14:01:55,723 INFO main [com.lzk.testng.TestResultListener]onFinish(line:106)Remove repeat Fail Test: test
+2018-05-08 14:04:05,356 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:50)test Start
+2018-05-08 14:04:15,038 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:04:15,039 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 14:04:15,039 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140415
+2018-05-08 14:04:15,050 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:30)Retry for [test] on class [com.lzk.tools.ScreenShotTest] Retry 1 times
+2018-05-08 14:04:15,293 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:04:15,293 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140415
+2018-05-08 14:04:15,297 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:38)test Skipped
+2018-05-08 14:04:15,297 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:50)test Start
+2018-05-08 14:04:23,112 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:04:23,113 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140423
+2018-05-08 14:04:23,118 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:30)Retry for [test] on class [com.lzk.tools.ScreenShotTest] Retry 2 times
+2018-05-08 14:04:23,353 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:04:23,353 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140423
+2018-05-08 14:04:23,359 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:38)test Skipped
+2018-05-08 14:04:23,359 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:50)test Start
+2018-05-08 14:04:26,676 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:04:26,676 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140426
+2018-05-08 14:04:26,913 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 14:04:26,913 INFO TestNG-test=test-1 [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_140426
+2018-05-08 14:04:26,917 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestFailure(line:30)test Failure
+2018-05-08 14:04:26,920 INFO main [com.lzk.testng.TestResultListener]onFinish(line:69)skipTest = test
+2018-05-08 14:04:26,920 INFO main [com.lzk.testng.TestResultListener]onFinish(line:69)skipTest = test
+2018-05-08 14:04:26,920 INFO main [com.lzk.testng.TestResultListener]onFinish(line:83)failedTest = test
+2018-05-08 14:04:26,920 INFO main [com.lzk.testng.TestResultListener]onFinish(line:106)Remove repeat Fail Test: test
+2018-05-08 14:09:35,567 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSuccess(line:40)test Success
+2018-05-08 14:09:35,571 INFO main [com.lzk.testng.TestResultListener]onFinish(line:58)PassedTests = test
+2018-05-08 14:12:01,109 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSuccess(line:40)test Success
+2018-05-08 14:12:01,112 INFO main [com.lzk.testng.TestResultListener]onFinish(line:58)PassedTests = test
+2018-05-08 14:13:39,403 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:31)Retry for [findTest] on class [com.lzk.drivers.WebElementUtilsTest] Retry 1 times
+2018-05-08 14:13:39,720 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508
+2018-05-08 14:13:39,721 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)new folder successful
+2018-05-08 14:13:39,721 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508_141339
+2018-05-08 14:13:39,733 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:34)findTest Skipped
+2018-05-08 14:13:39,733 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:46)findTest Start
+2018-05-08 14:14:12,315 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:31)Retry for [findTest] on class [com.lzk.drivers.WebElementUtilsTest] Retry 2 times
+2018-05-08 14:14:12,587 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508
+2018-05-08 14:14:12,587 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508_141412
+2018-05-08 14:14:12,592 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:34)findTest Skipped
+2018-05-08 14:14:12,592 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:46)findTest Start
+2018-05-08 14:14:45,505 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508
+2018-05-08 14:14:45,506 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508_141445
+2018-05-08 14:14:45,511 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestFailure(line:26)findTest Failure
+2018-05-08 14:14:45,512 INFO main [com.lzk.testng.TestResultListener]onFinish(line:65)skipTest = findTest
+2018-05-08 14:14:45,512 INFO main [com.lzk.testng.TestResultListener]onFinish(line:65)skipTest = findTest
+2018-05-08 14:14:45,513 INFO main [com.lzk.testng.TestResultListener]onFinish(line:79)failedTest = findTest
+2018-05-08 14:14:45,513 INFO main [com.lzk.testng.TestResultListener]onFinish(line:102)Remove repeat Fail Test: findTest
+2018-05-08 14:18:36,453 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:31)Retry for [findTest] on class [com.lzk.drivers.WebElementUtilsTest] Retry 1 times
+2018-05-08 14:18:36,455 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:34)findTest Skipped
+2018-05-08 14:18:36,456 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:46)findTest Start
+2018-05-08 14:19:09,095 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:31)Retry for [findTest] on class [com.lzk.drivers.WebElementUtilsTest] Retry 2 times
+2018-05-08 14:19:09,095 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:34)findTest Skipped
+2018-05-08 14:19:09,096 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:46)findTest Start
+2018-05-08 14:19:41,669 INFO main [com.lzk.testng.TestResultListener]onFinish(line:65)skipTest = findTest
+2018-05-08 14:19:41,669 INFO main [com.lzk.testng.TestResultListener]onFinish(line:65)skipTest = findTest
+2018-05-08 14:20:19,427 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:31)Retry for [findTest] on class [com.lzk.drivers.WebElementUtilsTest] Retry 1 times
+2018-05-08 14:20:19,429 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:34)findTest Skipped
+2018-05-08 14:20:19,430 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:46)findTest Start
+2018-05-08 14:20:25,012 INFO TestNG-test=test-1 [com.lzk.testng.TestngRetry]retry(line:31)Retry for [findTest] on class [com.lzk.drivers.WebElementUtilsTest] Retry 2 times
+2018-05-08 14:20:25,012 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestSkipped(line:34)findTest Skipped
+2018-05-08 14:20:25,012 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestStart(line:46)findTest Start
+2018-05-08 14:20:30,924 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508
+2018-05-08 14:20:30,924 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)new folder successful
+2018-05-08 14:20:30,924 INFO TestNG-test=test-1 [com.lzk.drivers.SeleniumDriver]info(line:33)当前时间为：20180508_142030
+2018-05-08 14:20:30,935 INFO TestNG-test=test-1 [com.lzk.testng.TestResultListener]onTestFailure(line:26)findTest Failure
+2018-05-08 14:20:30,936 INFO main [com.lzk.testng.TestResultListener]onFinish(line:65)skipTest = findTest
+2018-05-08 14:20:30,936 INFO main [com.lzk.testng.TestResultListener]onFinish(line:65)skipTest = findTest
+2018-05-08 14:20:30,937 INFO main [com.lzk.testng.TestResultListener]onFinish(line:79)failedTest = findTest
+2018-05-08 14:20:30,937 INFO main [com.lzk.testng.TestResultListener]onFinish(line:102)Remove repeat Fail Test: findTest

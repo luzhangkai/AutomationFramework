@@ -34,6 +34,6 @@ public class SeleniumDriver {
         return driver;
     }
     public static void close(){
-        driver.quit();
+        driver.close();
     }
 }
