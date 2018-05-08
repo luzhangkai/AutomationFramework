@@ -16,3 +16,16 @@
 2018-05-07 16:11:16,237 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：2018年05月07日 16:11:16
 2018-05-07 16:11:58,534 INFO main [com.lzk.tools.DateFormate]info(line:33)当前时间为：2018年05月07日 16:11:58
 2018-05-07 16:11:58,537 INFO main [com.lzk.tools.DateFormate]info(line:33)11位的随机数为：15256807185
+2018-05-07 18:03:43,437 WARN main [com.lzk.tools.ExcelUtil]warn(line:39)文件格式必须为xls格式
+2018-05-08 09:18:44,468 INFO main [com.lzk.tools.ExcelTest]info(line:33)zhangsan
+2018-05-08 09:18:44,473 INFO main [com.lzk.tools.ExcelTest]info(line:33)qqqq
+2018-05-08 09:18:44,474 INFO main [com.lzk.tools.ExcelTest]info(line:33)lisi
+2018-05-08 09:18:44,474 INFO main [com.lzk.tools.ExcelTest]info(line:33)wwww
+2018-05-08 09:58:37,788 INFO main [com.lzk.tools.Execl2Test]info(line:33)zhangsan
+2018-05-08 09:58:37,793 INFO main [com.lzk.tools.Execl2Test]info(line:33)lisi
+2018-05-08 09:59:38,652 INFO main [com.lzk.tools.Execl2Test]info(line:33)zhangsan
+2018-05-08 09:59:38,657 INFO main [com.lzk.tools.Execl2Test]info(line:33)lisi
+2018-05-08 09:59:38,658 INFO main [com.lzk.tools.Execl2Test]info(line:33)123.0
+2018-05-08 09:59:38,659 INFO main [com.lzk.tools.Execl2Test]info(line:33)411.0
+2018-05-08 09:59:38,659 INFO main [com.lzk.tools.Execl2Test]info(line:33)啊的萨芬大幅
+2018-05-08 09:59:38,660 INFO main [com.lzk.tools.Execl2Test]info(line:33)请问
