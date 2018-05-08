@@ -29,3 +29,17 @@
 2018-05-08 09:59:38,659 INFO main [com.lzk.tools.Execl2Test]info(line:33)411.0
 2018-05-08 09:59:38,659 INFO main [com.lzk.tools.Execl2Test]info(line:33)啊的萨芬大幅
 2018-05-08 09:59:38,660 INFO main [com.lzk.tools.Execl2Test]info(line:33)请问
+2018-05-08 11:14:15,392 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 11:14:15,394 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 11:14:15,394 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 11:16:28,794 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 11:16:28,796 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 11:16:28,796 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 11:16:28,796 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：2018年05月08日 11:16:28
+2018-05-08 11:16:28,803 ERROR main [com.lzk.tools.ScreenShotTest]error(line:42)截图失败！！
+2018-05-08 11:17:41,371 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 11:18:59,273 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 11:18:59,276 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_111859
+2018-05-08 11:21:55,148 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508
+2018-05-08 11:21:55,150 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)new folder successful
+2018-05-08 11:21:55,150 INFO main [com.lzk.tools.ScreenShotTest]info(line:33)当前时间为：20180508_112155
