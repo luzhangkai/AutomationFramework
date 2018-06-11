@@ -16,6 +16,7 @@ public class SeleniumDriver {
         if(browser.equals("chrome")){
             System.setProperty("webdriver.chrome.driver",path+"/drivers/chromedriver.exe");
             ChromeOptions options = new ChromeOptions();
+            options.setHeadless(true);
             options.addArguments("disable-infobars");
             driver = new ChromeDriver(options);
         }else if(browser.equals("IE")){
