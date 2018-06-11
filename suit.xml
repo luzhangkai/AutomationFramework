@@ -3,7 +3,7 @@
 <suite name="Default Suite" parallel="classes" thread-count="3">
 <test name="Selenium_Grid_Demo">
 <classes>
-    <class name="com.lzk.drivers.WebElementsTest">
+    <class name="com.lzk.drivers.SeleniumDriverTest">
     </class>
 </classes>
 </test>

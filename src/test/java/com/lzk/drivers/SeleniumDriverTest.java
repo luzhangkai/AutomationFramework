@@ -7,6 +7,6 @@ public class SeleniumDriverTest {
     @Test
     public void openTest(){
         WebDriver driver = SeleniumDriver.open("chrome");
-        SeleniumDriver.close();
+        driver.get("https://www.baidu.com/");
     }
 }
