@@ -76,7 +76,7 @@
                     <!-- want the compiled classes to be compatible with JVM 1.8 -->
                     <target>1.8</target>
                     <!-- The -encoding argument for the Java compiler. -->
-                    <encoding>UTF8</encoding>
+                    <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
 
