@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Default Suite" parallel="classes" thread-count="3">
+<suite name="Default Suite" parallel="classes" thread-count="1">
 <test name="Selenium_Grid_Demo">
 <classes>
     <class name="com.lzk.drivers.SeleniumDriverTest">
     </class>
+    <class name="com.lzk.drivers.WebElementUtilsTest">
+    </class>
+    <class name="com.lzk.drivers.ActionsTest">
+    </class>
+    <class name="com.lzk.drivers.WebElementsTest">
+    </class>
 </classes>
 </test>
+    <listeners>
+        <listener class-name="com.lzk.tools.ExtentTestNGIReporterListener"/>
+    </listeners>
 </suite>
